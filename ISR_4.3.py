@@ -29,3 +29,7 @@ text_to_qr(
     'hi',
     filename='qr.jpg'
     )
+
+
+#Ссылка на repl
+#https://repl.it/@ulyaakwatore/Siem-5-Tiema-4-ISR-43#main.py
